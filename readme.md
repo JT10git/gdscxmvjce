@@ -10,6 +10,6 @@
 	<h4>By <strong>Joel Thomas</strong></h4>
 	<br>
 	<p align="center">
-		This webpage is also hosted on a server and linked to the domain <a href="mvjce.ga">mvjce.ga</a>.
+		This webpage is also hosted on a server and linked to the domain <a href="http://mvjce.ga">mvjce.ga</a>.
 	</p>
 </div>
